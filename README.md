@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Flaausch
-- 🌱 I’m currently learning HTML / CSS
+- 🌱 I’m currently learning HTML / CSS / Javascript
 - 📫 How to reach me? On Discord Flaausch
