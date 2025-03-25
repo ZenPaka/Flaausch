@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Flaausch
+- 👋 Hi, I’m @ZenPaka
 - 🌱 I’m currently learning HTML / CSS / Javascript
-- 📫 How to reach me? On Discord Flaausch
+- 📫 How to reach me? On Discord ZenPaka
